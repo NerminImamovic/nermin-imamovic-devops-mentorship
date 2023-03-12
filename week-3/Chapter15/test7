@@ -1,0 +1,4 @@
+ls: badtest: No such file or directory
+ls: test: No such file or directory
+-rw-r--r--  1 nerminimamovic  staff  349 Mar 12 17:20 test2
+-rw-r--r--  1 nerminimamovic  staff    0 Mar 12 17:21 test3
